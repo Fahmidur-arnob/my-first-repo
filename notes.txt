@@ -1,0 +1,5 @@
+first of all when you create a new file then you have to add that using git add "name of that file"
+
+then you've to commit that file using git commit -m 'something meaningful'
+
+then you have to just push the file into the repo in github.
